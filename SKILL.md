@@ -1,12 +1,7 @@
 ---
 name: agent-hr
 description: >
-  Diagnose and fix AI-agent operations problems with organizational-design tools —
-  treat your agents as team members. Use when (1) an agent workflow fails quietly,
-  loops without closure, or corrupts shared state — translate the symptom into a
-  known org problem and apply its proven fix, (2) designing a new agent role, loop,
-  or automation, (3) deciding whether a recurring human judgment can be delegated
-  to an agent, and drafting the delegation contract.
+  Org-design lens for AI-agent operations. Use when (1) an agent loop fails quietly or without closure, (2) designing a new agent role, loop, or automation, (3) deciding whether a recurring human judgment can be delegated to an agent.
 ---
 
 # agent-hr — org design for teams of AI agents
